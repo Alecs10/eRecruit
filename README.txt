@@ -1,1 +1,1 @@
-Project for Software Engineering course, prof. Sima Dorin
+Marius
